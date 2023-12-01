@@ -47,15 +47,6 @@ public class PlayerMovement : MonoBehaviour
         jump = playerInput.Player.Jump;
         sprint = playerInput.Player.Sprint;
         look = playerInput.Player.Look;
-
-
-        Debug.Log("test");
-        Debug.Log("test2");
-        Debug.Log("test3");
-        Debug.Log("test4");
-        Debug.Log("test5");
-        Debug.Log("test6");
-        Debug.Log("test7");
     }
 
     private void Update()
