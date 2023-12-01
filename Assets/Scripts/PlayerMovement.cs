@@ -50,6 +50,7 @@ public class PlayerMovement : MonoBehaviour
 
 
         Debug.Log("test");
+        Debug.Log("test2");
     }
 
     private void Update()
