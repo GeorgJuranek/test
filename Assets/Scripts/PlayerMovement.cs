@@ -52,6 +52,8 @@ public class PlayerMovement : MonoBehaviour
         Debug.Log("test");
         Debug.Log("test2");
         Debug.Log("test3");
+        Debug.Log("test4");
+        Debug.Log("test5");
     }
 
     private void Update()
